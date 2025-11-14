@@ -2,6 +2,7 @@ Sistema de Análise de Algoritmos de Ordenação
 Sistema completo para comparação de performance de algoritmos de ordenação no contexto de imagens de satélite da Amazônia.
 
 🚀 Funcionalidades
+
 4 Algoritmos de Ordenação: QuickSort, MergeSort, HeapSort, TimSort
 
 Dashboard em tempo real com métricas de performance
@@ -31,13 +32,16 @@ Múltiplos tamanhos de dataset para testes
 Análise estatística de performance
 
 📈 Métricas Analisadas
+
 Tempo de execução
 Uso de memória
 Estabilidade dos algoritmos
 Desempenho com diferentes tipos de dados
 
 
+
 👩‍💻 Desenvolvedores
+
 Nome	Matrícula
 Camilla Cassia - G9014B3
 Julia Holanda - R0563F3
