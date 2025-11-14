@@ -43,6 +43,9 @@ Desempenho com diferentes tipos de dados
 👩‍💻 Desenvolvedores
 
 Nome	Matrícula
+
 Camilla Cassia - G9014B3
+
 Julia Holanda - R0563F3
+
 Fernanda Aparescida - G722IF0
