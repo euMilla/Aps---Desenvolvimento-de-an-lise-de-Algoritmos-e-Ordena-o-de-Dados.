@@ -1,4 +1,5 @@
 Sistema de Análise de Algoritmos de Ordenação
+
 Sistema completo para comparação de performance de algoritmos de ordenação no contexto de imagens de satélite da Amazônia.
 
 🚀 Funcionalidades
@@ -19,6 +20,7 @@ Java JDK 17 ou superior
 4GB de RAM (recomendado)
 
 🛠️ Instalação e Execução
+
 Assista ao Vídeo Demonstrativo
        ou
 Se baixou o ZIP:
@@ -27,8 +29,11 @@ Windows:
 compile_and_run.bat
 
 O sistema está configurado para trabalhar com:
+
 Dados de imagens de satélite da Amazônia Legal
+
 Múltiplos tamanhos de dataset para testes
+
 Análise estatística de performance
 
 📈 Métricas Analisadas
